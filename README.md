@@ -34,7 +34,6 @@ This project scrapes job listings from LinkedIn, processes the data, and visuali
 - `code3.ipynb`: Main scraping and data collection notebook
 - `linkedin_job_analysis.ipynb`: Data analysis and visualization notebook
 - `jobs_df.csv`: Processed job listings dataset
-- `linkedin_job_analysis_report.md`: Detailed project report (markdown)
 - `linkedin_job_analysis_report.docx`: Project report (Word format)
 
 ## Note
